@@ -1,0 +1,26 @@
+{
+  "name": "ng-bright-concept",
+  "version": "0.1.0",
+  "description": "Angular base component of bright-idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabinortega/ng-bright-concept.git"
+  },
+  "keywords": [
+    "bright",
+    "concept",
+    "angular",
+    "component",
+    "ideas"
+  ],
+  "author": "Gabino Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabinortega/ng-bright-concept/issues"
+  },
+  "homepage": "https://github.com/gabinortega/ng-bright-concept#readme"
+}
